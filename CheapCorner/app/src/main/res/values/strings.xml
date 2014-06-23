@@ -3,5 +3,5 @@
 
     <string name="app_name">Cheap Corner</string>
     <string name="title_activity_maps">Map</string>
-
+    <string name="google_maps_key">test</string>
 </resources>
